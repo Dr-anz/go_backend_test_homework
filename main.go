@@ -1,4 +1,4 @@
-package main
+package main// ну что поехали еухоуу!
 
 import (
 	"fmt"
